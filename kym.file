@@ -15,7 +15,7 @@
   ],
   "env": {
     "PREFIX": {
-      "description": "Bot Prefix to use before commands",
+      "description": ".",
       "required": true
     },
     "MONGODB_KEY": {
@@ -23,11 +23,11 @@
       "required": true
     },
     "myNumber": {
-      "description": "Your WhatsApp Number to use as bot owner",
+      "description": "+254789925270",
       "required": true
     },
     "botNumber": {
-      "description": "Your WhatsApp Bot Number to use as bot",
+      "description": "+254789925270,+254715715617,+254790536847",
       "required": true
     },
     "REMOVE_BG_KEY": {
